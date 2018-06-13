@@ -1,0 +1,3 @@
+[submodule "openshift-apache-php7"]
+	path = openshift-apache-php7
+	url = https://github.com/peschmae/openshift-apache-php7.git
